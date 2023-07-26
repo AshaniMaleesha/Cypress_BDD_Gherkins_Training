@@ -1,0 +1,12 @@
+{
+  "userNameField" : "#user-name",
+  "passwordField" : "#password",
+  "loginButton" : "#login-button",
+  "username":"standard_user",
+  "password":"secret_sauce",
+  "productTitle":".title",
+  
+  "usernameProb" : "locked_out_user",
+  "errorMsg":"h3[data-test='error']"
+
+}
